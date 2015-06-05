@@ -62,7 +62,7 @@ context.authorize(:read, :tasks)
 ```
 
 Context authorize method also publishes events `:granted` and `:denied` with
-`context, action, resource` arguments and `restricted` with
+`context, action, resource` arguments and `:restricted` with
 `context, restriction, action, resource` arguments (see more
 [Spine::Hub](https://github.com/rspine/hub) to see how to subscribe these).
 
