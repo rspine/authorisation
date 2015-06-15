@@ -4,6 +4,8 @@
 [![Dependency Status](https://gemnasium.com/rspine/authorisation.svg)](https://gemnasium.com/rspine/authorisation)
 [![Test Coverage](https://codeclimate.com/github/rspine/authorisation/badges/coverage.svg)](https://codeclimate.com/github/rspine/authorisation/coverage)
 [![Code Climate](https://codeclimate.com/github/rspine/authorisation/badges/gpa.svg)](https://codeclimate.com/github/rspine/authorisation)
+[![security](https://hakiri.io/github/rspine/authorisation/master.svg)](https://hakiri.io/github/rspine/authorisation/master)
+[![Inline docs](http://inch-ci.org/github/rspine/authorisation.svg?branch=master)](http://inch-ci.org/github/rspine/authorisation)
 [![Codeship Status for rspine/authorisation](https://codeship.com/projects/f6de77f0-edaf-0132-b6b1-1efd3f886df2/status?branch=master)](https://codeship.com/projects/84059)
 
 Authorisation context for Ruby applications.
